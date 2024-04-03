@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header-top {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 150px;
+  padding-left: 150px;
+  background-color: #f0f3f2;
+}
+
+.flagimg {
+  width: 100px;
+  height: 10px;
+}
+
+.dropdow {
+  width: 200px;
+  height: 20px;
+}
+
+.header-middle {
+  height: 45px;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 200px;
+  padding-right: 200px;
+  align-items: center;
+}
+
+.input {
+  margin-right: 500px;
+}
+
+.header-top {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.top-span {
+  width: 200px;
+  height: 50px;
+  background-color: #0aad0a;
+  text-align: center;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.top-right {
+  margin-right: 250px;
+}
+
+.first-img {
+  width: 1300px;
+  height: 500px;
+  background-image: url(https://freshcart.codescandy.com/assets/images/slider/slide-1.jpg);
+}
+
+.second-img {
+  width: 1300px;
+  height: 500px;
+  background-image: url(https://freshcart.codescandy.com/assets/images/slider/slider-2.jpg);
+}
+
+.slider-section {
+  display: flex;
+  justify-content: center;
+}/*# sourceMappingURL=style.css.map */
